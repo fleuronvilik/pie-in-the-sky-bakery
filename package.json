@@ -14,6 +14,8 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+    "fontsource-cabin": "^3.1.6",
+    "fontsource-niconne": "^3.1.5",
     "gatsby": "^2.26.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"

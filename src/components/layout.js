@@ -1,6 +1,9 @@
 import React from "react"
 import { Link } from "gatsby"
 
+import "fontsource-niconne"
+import "fontsource-cabin"
+
 const Aside = () => (
   <div className="aside">
     <aside className="sidebar-primary">
