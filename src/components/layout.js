@@ -30,8 +30,8 @@ export default function Layout({ children, withSidebar, childrenClassName }) {
       <nav>
         <ul>
           <li><Link to="/">Home</Link></li>
-          <li><Link to="#">Menu</Link></li>
-          <li><Link to="#">Catering</Link></li>
+          <li><Link to="/menu/">Menu</Link></li>
+          <li><Link to="/catering/">Catering</Link></li>
           <li><Link to="/gallery/">Pie Gallery</Link></li>
           <li><Link to="/history/">About</Link></li>
           <li><Link to="#">Contact</Link></li>
